@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sseworld&label=Profile%20views&color=0e75b6&style=flat" alt="sseworld" /> </p>
 
-- 🔭 I’m currently working on [SSE File Manager Using Firebase](https://github.com/sseworld/file-manager)
+<!-- - 🔭 I’m currently working on [SSE File Manager Using Firebase](https://github.com/sseworld/file-manager) -->
 
 - 🌱 I’m currently learning **React Redux and framework.**
 
-- 👯 I’m looking to collaborate on [SSE File Manager Using Firebase](https://github.com/sseworld/file-manager)
+<!-- - 👯 I’m looking to collaborate on [SSE File Manager Using Firebase](https://github.com/sseworld/file-manager) -->
 
-- 🤝 I’m looking for help with [SSE File Manager Using Firebase](https://github.com/sseworld/file-manager)
+<!-- - 🤝 I’m looking for help with [SSE File Manager Using Firebase](https://github.com/sseworld/file-manager) -->
 
 - 👨‍💻 All of my projects are available at [Not Available](Not Available)
 
