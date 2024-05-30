@@ -1,3 +1,5 @@
+## Our Sites
+[!Our LMS Website](https://sseworld.frappe.cloud/)
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sseworld) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/sseworld) 
@@ -18,9 +20,10 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sseworld&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<!--
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
+-->
 ---
 [![](https://visitcount.itsvg.in/api?id=sseworld&icon=0&color=3)](https://visitcount.itsvg.in)
 
